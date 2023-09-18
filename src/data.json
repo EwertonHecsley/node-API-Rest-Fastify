@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Ewerton Hecsley",
+        "email": "ewerton@email.com",
+        "senha": "$2b$10$koWxPSHl6J/8TuuyHBYIWerh9wQy1faRWD4p4Mrm6tB/BFJyrkskq"
+    },
+    {
+        "nome": "Enzo Hcsley",
+        "email": "enzo@email.com",
+        "senha": "$2b$10$vlv0ccG1cG1lmgEBUV5gSeqMpGk9XdGpdneemNw7g4bF4WlC2WYxe"
+    },
+    {
+        "nome": "Benjamim Hcsley",
+        "email": "benjamim@email.com",
+        "senha": "$2b$10$.rJ1qcdO8IDQZLXQ/mvvYOztqrRzsb1wQac5vErGFLHxkhuLnF1qe"
+    },
+    {
+        "nome": "Bernardo Hcsley",
+        "email": "bernardo@email.com",
+        "senha": "$2b$10$MNXfIw1ER3hDvkiB6.NpuugZrbJUc.tggaxOHOFqJ4aPzv2zeRqxW"
+    }
+]
